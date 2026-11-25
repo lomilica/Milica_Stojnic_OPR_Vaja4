@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../CDteka/CDteka.csproj" Id="4ce03ee3-a5a1-47a9-948b-000e4cf0787c" />
+  <Project Path="../Datum_DateTime/Datum_DateTime.csproj" />
+  <Project Path="../Datum_Knjiznica/Datum_Knjiznica.csproj" />
+  <Project Path="../Datum_TriStevili/Datum_TriStevili.csproj" />
+  <Project Path="../Ulomek/Ulomek.csproj" Id="864b2e83-690c-4d72-8069-7a6a5a5b73d8" />
+  <Project Path="Vaja4.csproj" />
+</Solution>
